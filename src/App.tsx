@@ -10,7 +10,7 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="text-3xl font-bold">Hello Vite + React!</p>
-        <p className="text-2xl bg-blue-500">
+        <p className="bg-blue-500 text-2xl">
           TypeScript, ESLint, Prettier, TailwindCSS ready!
         </p>
         <p>
