@@ -1,8 +1,8 @@
-import { useState } from 'react';
+import { useState, VFC } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-const App = () => {
+const App: VFC = () => {
   const [count, setCount] = useState(0);
 
   return (
