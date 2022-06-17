@@ -2,7 +2,7 @@
 
 ## 概要
 
-[Vite](https://ja.vitejs.dev/)の`react-ts`テンプレートで生成したプロジェクトにESLintとPrettierおよびTailwindCSSを適用しました。
+[Vite](https://ja.vitejs.dev/)の`react-ts`テンプレートで生成したプロジェクトにESLintとPrettierおよびTailwind CSSを適用しました。
 
 ## 使い方
 
